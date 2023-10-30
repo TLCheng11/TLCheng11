@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 Hi 👋 My name is Tony Cheng
 ==================================================================================================================================
 
-Software Engineer
+I'm a Software Engineer
 -----------------
 
 I'm passionate about building applications that automate tasks. Expertise in JaveScript, Python, and Ruby. Experience in creating professional web interfaces with React.js or Next.js, designing REST API with Django or Rails, and integrating 3rd party APIs such as Google Cloud APIs and OpenAI APIs.
 
 *   🌍  I'm based in New York
 *   🖥️  See my portfolio at [here](http://tlcheng11.github.io/portfolio-website/)
-*   🚀  I'm currently working on [Image text extractor and translator](http://54.210.20.214:8601/)
+*   🚀  I'm currently working on [Image text extractor and translator](http://54.210.20.214:8701/)
 *   🧠  I'm learning Langchain, Firebase, MongoDB
 *   🤝  I'm open to collaborating on OCR, AI, and Blockchain related projects
 
