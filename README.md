@@ -23,7 +23,7 @@ I'm passionate about building applications that automate tasks. Expertise in Jav
 
 *   🌍  I'm based in New York
 *   🖥️  See my portfolio at [here](http://tlcheng11.github.io/portfolio-website/)
-*   🚀  I'm currently working on [Image text extractor and translator](http://54.210.20.214:8701/)
+*   🚀  I'm currently working on [WordExtract.com](http://wordextract.com/)
 *   🧠  I'm learning Langchain, Firebase, MongoDB
 *   🤝  I'm open to collaborating on OCR, AI, and Blockchain related projects
 
